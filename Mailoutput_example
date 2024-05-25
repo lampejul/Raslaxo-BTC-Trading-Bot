@@ -1,0 +1,27 @@
+Mail output example:
+
+Zzzzzzzzzzzzzzzzz ...... RASLAXO woke up!
+Get data for dataframe
+[*********************100%***********************] 1 of 1 completed
+-Indicators added:
+-MACD: 11393.604513197606 signal: 12552.982246106607 K: 92.65468225042312 D: 86.63021573018212 RSI: 58.37053540091059
+<<<<<<<<<<<LOOP>>>>>>>>>>
+-Current Balance| BTC: 0.0 | EUR: 21.2121
+-Current Volume in Short Position: 0
+-BTC/EUR 63237.361710000005
+-----------------------
+----------LONG------------
+Buy Decision ... No Trade
+<<<<<<<<<<<LOOP>>>>>>>>>>
+-Current Balance| BTC: 0.0 | EUR: 21.2121
+-Current Volume in Short Position: 0
+-BTC/EUR 63235.76163000001
+-----------------------
+---------SHORT---------
+SHORT - Decision ...: No Trade
+<<<<<<<<<<<<Information>>>>>>>>>>>>>>>
+The open positions are: {'error': [], 'result': {}}
+The current balance is: {'error': [], 'result': {'XXBT': '0.0000000000', 'ZEUR': '21.2121'}}
+-----------------------
+-----------------------
+Zzzzzzzzzzzzzzzzz RASLAXO is sleeping again...
